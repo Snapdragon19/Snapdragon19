@@ -1,8 +1,9 @@
-- Hi 👋, I'm Michael Nkaneme  
+
+  Hi 👋, I'm Michael Nkaneme  
 
   A passionate developer developer
 
-- 👀 I’m love playing games, making games, drawing and very big on story telling.
+- 👀 I’m love playing games, making games, drawing and very big on story telling
 - 🌱 I’m currently learning GameFi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Tobykans@gmail.com
