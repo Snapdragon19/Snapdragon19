@@ -1,6 +1,6 @@
 - Hi 👋, I'm Michael Nkaneme  
 
-A passionate developer developer
+  A passionate developer developer
 
 - 👀 I’m love playing games, making games, drawing and very big on story telling.
 - 🌱 I’m currently learning GameFi
